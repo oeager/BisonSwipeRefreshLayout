@@ -123,6 +123,11 @@ public class PulltoRefreshSwipeView implements ISwipeView {
     }
 
     @Override
+    public void onSwipeBeyond(boolean refresh, float factor) {
+
+    }
+
+    @Override
     public void onRefreshCancel(boolean refresh) {
 
     }
