@@ -45,7 +45,7 @@ public abstract class BaseSwipeView implements ISwipeView{
 
     @Override
     public void onSwipeBeyond(boolean refresh, float factor) {
-        
+
     }
 
     @Override
